@@ -1,0 +1,29 @@
+<div th:fragment="navbar" xmlns:sec="http://www.w3.org/1999/xhtml">
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg navbar-lg navbar-light bg-white mb-3">
+            <div class="container py-3">
+                <a class="navbar-brand" href="#">W.O.G</a>
+                <div class="navbar-collapse collapse" id="collapsibleNavbar" style="">
+                    <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" id="activeItem" href="/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link px-5" href="/game-add">Add game</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/games">games</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link px-5" sec:authorize="isAnonymous()" th:href="@{/login}" href="#">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link px-5" sec:authorize="isAuthenticated()" th:href="@{/logout}" href="#">Logout</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
