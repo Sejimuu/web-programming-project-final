@@ -1,23 +1,12 @@
-# Movie app
-### [Link-to-app](https://web-final-pr-movie.herokuapp.com/login)<br>
-- Login: rustam.isma<br>
-- Password: 123<br>
-#### ![](https://imgur.com/PFLt226.gif)
+### [Link to webapp](https://glacial-brushlands-66945.herokuapp.com/)
+### [Documentation](https://app.swaggerhub.com/apis/Sejimuu/api-documentation/1.0)
 
 ## Description
-Web application where everyone can upload any film<br>
-and watch. You don't need to pay, watch reclame atc.<br>
-Also, you can add you favorites films to this app and than if you would watch it you don't need<br>
-to go to internet and find that, just go to this app and enjoy.
+Free Games websites are a fun way to play games online without any download.<br>
+This games website requires you to loging before play game. Most of the games featured here<br>
+can be played for hours as nasty mid-game advertisements don’t disrupt your gameplay.
 
-## API Documentation:
-- [API Documentation](https://app.swaggerhub.com/apis-docs/rustam.isma/api-documentation/2.0#/)
-
-## Trello and Figma:
-- [Trello](https://trello.com/b/hI1iozn8/web-final-project)
-- [FIGMA](https://www.figma.com/file/4PC7tJlkTW4YTw704V0jMX/Web-final-project?node-id=5%3A0)
-#### <img src="https://imgur.com/4Sw4QGy.png" width="800" height="400">
-#### <img src="https://imgur.com/EfgYiD7.png" width="800" height="400">
-
-
-
+### ![](https://imgur.com/gKQqptf.png)
+### ![](https://imgur.com/4nZynXt.png)
+### ![](https://imgur.com/vUL10gB.png)
+### ![](https://imgur.com/sBcxzbB.png)
