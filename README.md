@@ -1,6 +1,7 @@
 ### Created by: Nursultan Asan uulu
 ### [Link to webapp](https://glacial-brushlands-66945.herokuapp.com/)
 ### [Documentation](https://app.swaggerhub.com/apis/Sejimuu/api-documentation/1.0)
+### [Video tutorial](https://drive.google.com/drive/folders/1vRBCIsu9l6mjVzzMyw_HA_EiloiG3_zd?usp=sharing)
 
 ## Description
 Free Games websites are a fun way to play games online without any download.<br>
@@ -11,3 +12,4 @@ can be played for hours as nasty mid-game advertisements don’t disrupt your ga
 ### ![](https://imgur.com/4nZynXt.png)
 ### ![](https://imgur.com/vUL10gB.png)
 ### ![](https://imgur.com/sBcxzbB.png)
+
